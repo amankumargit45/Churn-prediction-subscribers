@@ -1,0 +1,6 @@
+Below are the requirements for this Project:
+
+pandas
+numpy
+scikit-learn
+openpyxl
